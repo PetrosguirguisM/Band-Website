@@ -149,9 +149,7 @@ h2 {
 .container-box-3 > button:hover {
     background-color: #aaa;
 }
-.contact {
-    display: flex;
-}
+
 .label {
    display: inline;
    padding-right: 120px;
@@ -348,8 +346,7 @@ footer {
     color: white;
   }
   
-  @media (max-width: 500px) {
-}
+
 @media (max-width: 700px) {
     
     header > img {
